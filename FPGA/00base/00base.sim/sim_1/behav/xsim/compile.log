@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Development/CPU/Work/FPGA/00base/00base.srcs/sources_1/new/halfadd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfadd
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Development/CPU/Work/FPGA/00base/00base.srcs/sim_1/new/tb_cpu8bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_cpu8bits
+INFO: [VRFC 10-2458] undeclared symbol sum, assumed default net type wire [D:/Development/CPU/Work/FPGA/00base/00base.srcs/sim_1/new/tb_cpu8bits.v:33]
+INFO: [VRFC 10-2458] undeclared symbol c, assumed default net type wire [D:/Development/CPU/Work/FPGA/00base/00base.srcs/sim_1/new/tb_cpu8bits.v:34]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Development/CPU/Work/FPGA/00base/00base.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

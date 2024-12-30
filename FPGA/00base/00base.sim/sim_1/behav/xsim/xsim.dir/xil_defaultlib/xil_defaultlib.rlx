@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Development/CPU/Work/FPGA/00base/00base.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Development/CPU/Work/FPGA/00base/00base.srcs/sim_1/new/tb_cpu8bits.v,1735563482,verilog,,,,tb_cpu8bits,,,,,,,,
+D:/Development/CPU/Work/FPGA/00base/00base.srcs/sources_1/new/halfadd.v,1735563485,verilog,,D:/Development/CPU/Work/FPGA/00base/00base.srcs/sim_1/new/tb_cpu8bits.v,,halfadd,,,,,,,,
